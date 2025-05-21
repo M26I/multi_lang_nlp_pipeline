@@ -1,1 +1,5 @@
 langdetect
+deep-translator
+textblob
+
+
