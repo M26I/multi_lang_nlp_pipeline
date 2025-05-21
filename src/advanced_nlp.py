@@ -1,3 +1,4 @@
+# © 2025 M26I - For educational/portfolio use only
 from transformers import pipeline
 
 # Load NER pipeline

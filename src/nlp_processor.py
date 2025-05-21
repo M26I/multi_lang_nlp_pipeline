@@ -1,3 +1,4 @@
+# © 2025 M26I - For educational/portfolio use only
 from textblob import TextBlob
 
 def analyze_text(text):

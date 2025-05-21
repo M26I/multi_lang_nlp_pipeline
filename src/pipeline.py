@@ -1,3 +1,4 @@
+# © 2025 M26I - For educational/portfolio use only
 from langdetect import detect, DetectorFactory, LangDetectException
 from deep_translator import GoogleTranslator, exceptions as gt_exceptions
 from nlp_processor import analyze_text  

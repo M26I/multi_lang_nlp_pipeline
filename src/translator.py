@@ -1,4 +1,4 @@
-
+# © 2025 M26I - For educational/portfolio use only
 from deep_translator import GoogleTranslator
 
 def translate_to_english(text, source_lang=None):
