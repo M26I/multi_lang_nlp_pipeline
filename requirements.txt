@@ -1,5 +1,7 @@
 langdetect
 deep-translator
 textblob
-
+transformers
+torch
+streamlit
 
